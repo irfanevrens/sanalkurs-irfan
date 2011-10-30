@@ -6,6 +6,8 @@
  * adresinde profili bulunan İrfan Evrens tarafından sanalkurs.net 
  * üyelerine yardımcı olmak için yazılmıştır.
  * 
+ * cevap verilen soru: http://www.sanalkurs.net/forum/php-mysql/uye-kayit-sayfasina-guvenlik-kodu
+ * 
  */
 
 // burada oturumu başlatmamız gerekiyor. çünkü session nesnesi ile
